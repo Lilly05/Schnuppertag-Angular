@@ -13,6 +13,7 @@ export class UserService {
     {username: 'Fredi', password: '1234'},
     {username: 'Julienne', password: 'passwort12'},
     {username: 'Nora', password: 'passwort12'},
+    {username: 'Lilly', password: '1234'},
     {username: 'Laura', password: 'idk45'}
     ];
 
